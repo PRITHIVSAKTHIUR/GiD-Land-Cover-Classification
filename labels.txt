@@ -1,0 +1,18 @@
+# ID to label mapping
+id2label = {
+    "0": "arbor woodland",
+    "1": "artificial grassland",
+    "2": "dry cropland",
+    "3": "garden plot",
+    "4": "industrial land",
+    "5": "irrigated land",
+    "6": "lake",
+    "7": "natural grassland",
+    "8": "paddy field",
+    "9": "pond",
+    "10": "river",
+    "11": "rural residential",
+    "12": "shrub land",
+    "13": "traffic land",
+    "14": "urban residential"
+}
